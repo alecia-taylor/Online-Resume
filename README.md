@@ -10,7 +10,9 @@ I created a sleek and responsive online resume using HTML, & CSS to showcase my 
 ✔️ Easy to customize  
 
 
+
 ## How to Use
  **Clone the repository:**  
    ```sh
    git clone https://github.com/alecia-taylor/Online-Resume.git
+
